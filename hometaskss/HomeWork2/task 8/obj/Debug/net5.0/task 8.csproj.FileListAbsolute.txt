@@ -1,0 +1,16 @@
+C:\Users\Omer\Desktop\HomeWork2\HomeWork2\task 8\bin\Debug\net5.0\task 8.exe
+C:\Users\Omer\Desktop\HomeWork2\HomeWork2\task 8\bin\Debug\net5.0\task 8.deps.json
+C:\Users\Omer\Desktop\HomeWork2\HomeWork2\task 8\bin\Debug\net5.0\task 8.runtimeconfig.json
+C:\Users\Omer\Desktop\HomeWork2\HomeWork2\task 8\bin\Debug\net5.0\task 8.runtimeconfig.dev.json
+C:\Users\Omer\Desktop\HomeWork2\HomeWork2\task 8\bin\Debug\net5.0\task 8.dll
+C:\Users\Omer\Desktop\HomeWork2\HomeWork2\task 8\bin\Debug\net5.0\task 8.pdb
+C:\Users\Omer\Desktop\HomeWork2\HomeWork2\task 8\obj\Debug\net5.0\task 8.csproj.AssemblyReference.cache
+C:\Users\Omer\Desktop\HomeWork2\HomeWork2\task 8\obj\Debug\net5.0\task 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omer\Desktop\HomeWork2\HomeWork2\task 8\obj\Debug\net5.0\task 8.AssemblyInfoInputs.cache
+C:\Users\Omer\Desktop\HomeWork2\HomeWork2\task 8\obj\Debug\net5.0\task 8.AssemblyInfo.cs
+C:\Users\Omer\Desktop\HomeWork2\HomeWork2\task 8\obj\Debug\net5.0\task 8.csproj.CoreCompileInputs.cache
+C:\Users\Omer\Desktop\HomeWork2\HomeWork2\task 8\obj\Debug\net5.0\task 8.dll
+C:\Users\Omer\Desktop\HomeWork2\HomeWork2\task 8\obj\Debug\net5.0\refint\task 8.dll
+C:\Users\Omer\Desktop\HomeWork2\HomeWork2\task 8\obj\Debug\net5.0\task 8.pdb
+C:\Users\Omer\Desktop\HomeWork2\HomeWork2\task 8\obj\Debug\net5.0\task 8.genruntimeconfig.cache
+C:\Users\Omer\Desktop\HomeWork2\HomeWork2\task 8\obj\Debug\net5.0\ref\task 8.dll

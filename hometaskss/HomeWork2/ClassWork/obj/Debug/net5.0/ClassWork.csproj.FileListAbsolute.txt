@@ -1,0 +1,16 @@
+C:\Users\Omer\Desktop\HomeWork2\HomeWork2\ClassWork\bin\Debug\net5.0\ClassWork.exe
+C:\Users\Omer\Desktop\HomeWork2\HomeWork2\ClassWork\bin\Debug\net5.0\ClassWork.deps.json
+C:\Users\Omer\Desktop\HomeWork2\HomeWork2\ClassWork\bin\Debug\net5.0\ClassWork.runtimeconfig.json
+C:\Users\Omer\Desktop\HomeWork2\HomeWork2\ClassWork\bin\Debug\net5.0\ClassWork.runtimeconfig.dev.json
+C:\Users\Omer\Desktop\HomeWork2\HomeWork2\ClassWork\bin\Debug\net5.0\ClassWork.dll
+C:\Users\Omer\Desktop\HomeWork2\HomeWork2\ClassWork\bin\Debug\net5.0\ClassWork.pdb
+C:\Users\Omer\Desktop\HomeWork2\HomeWork2\ClassWork\obj\Debug\net5.0\ClassWork.csproj.AssemblyReference.cache
+C:\Users\Omer\Desktop\HomeWork2\HomeWork2\ClassWork\obj\Debug\net5.0\ClassWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omer\Desktop\HomeWork2\HomeWork2\ClassWork\obj\Debug\net5.0\ClassWork.AssemblyInfoInputs.cache
+C:\Users\Omer\Desktop\HomeWork2\HomeWork2\ClassWork\obj\Debug\net5.0\ClassWork.AssemblyInfo.cs
+C:\Users\Omer\Desktop\HomeWork2\HomeWork2\ClassWork\obj\Debug\net5.0\ClassWork.csproj.CoreCompileInputs.cache
+C:\Users\Omer\Desktop\HomeWork2\HomeWork2\ClassWork\obj\Debug\net5.0\ClassWork.dll
+C:\Users\Omer\Desktop\HomeWork2\HomeWork2\ClassWork\obj\Debug\net5.0\refint\ClassWork.dll
+C:\Users\Omer\Desktop\HomeWork2\HomeWork2\ClassWork\obj\Debug\net5.0\ClassWork.pdb
+C:\Users\Omer\Desktop\HomeWork2\HomeWork2\ClassWork\obj\Debug\net5.0\ClassWork.genruntimeconfig.cache
+C:\Users\Omer\Desktop\HomeWork2\HomeWork2\ClassWork\obj\Debug\net5.0\ref\ClassWork.dll

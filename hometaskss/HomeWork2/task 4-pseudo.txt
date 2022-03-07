@@ -1,0 +1,23 @@
+get a = 1234;
+get b;
+get sum;
+
+if a >= 1000 and a < 100000
+display "a 4 reqemli deyil"
+
+calculuate b = (a + 40000)*100 + 44
+
+calculuate sum = (b * 44) / 100
+print sum
+
+
+
+
+
+
+
+
+
+
+
+

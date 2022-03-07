@@ -1,0 +1,27 @@
+program task1
+
+set a = 1234;
+
+init sum;
+
+if  a >=1000 and a <10000
+
+display a "4 reqemli deyil"
+
+END if 
+
+calculet sum = (a +70000)* 10 + 8  
+
+print sum
+
+programend
+
+
+
+
+
+
+
+
+
+

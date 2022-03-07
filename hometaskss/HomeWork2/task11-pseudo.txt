@@ -1,0 +1,57 @@
+program task11
+
+set a = 12345
+
+set b = 12345
+
+set c = 12345
+
+set d = 12345
+
+init e
+
+init f
+
+init g
+ 
+init h
+
+if a >= 10000 and a < 100000
+
+displey a 5 reqemli deyil
+
+end if
+
+if b >= 10000 and b < 100000
+
+display b 5 reqemli deyil
+
+end if
+
+if c >= 10000 and c < 100000
+
+display c 5 reqemli deyil
+
+end if
+
+if d >= 10000 and d < 100000
+
+display d 5 reqemli deyil
+
+end if
+
+calculate e = a + c
+
+calculate f = b + d
+
+calculate h = (c * 3) / 100
+
+calculate g = (e * f) - h
+
+print g
+
+
+
+
+
+endpprogram

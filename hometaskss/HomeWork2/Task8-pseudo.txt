@@ -1,0 +1,29 @@
+program task8
+
+set a = 1234
+
+set b = 1234567
+
+init c
+
+if a >= 1000 and a < 10000
+
+display a 4 reqemli deyil
+
+if b >= 1000000 and b < 10000000
+
+display b 7 reqemli deyil
+
+calculate a = (a *4)/100
+
+calculate b = (b *9)/100
+
+calculate c = ((a + b)*10)/100
+
+print c
+
+endprogram
+
+
+
+

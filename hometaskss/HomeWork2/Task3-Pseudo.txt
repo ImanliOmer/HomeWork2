@@ -1,0 +1,19 @@
+set a = 12345
+init b
+init c
+
+if  a >=10000 and a <100000
+
+display 5 reqemli deyil
+
+END if
+
+CALCULATE  b = (a * 18)/100
+
+print b
+
+CALCULATE  c = (a * 3)/100
+
+print c
+
+program end

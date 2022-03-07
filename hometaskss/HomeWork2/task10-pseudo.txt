@@ -1,0 +1,51 @@
+program task10
+
+set a = 1234
+
+set b = 1234
+
+set c = 1234
+
+init d
+
+init e
+
+init a1
+
+init b1
+
+init c1
+
+if a >= 1000 and a < 10000
+
+display a 4 reqemli deyil
+
+end if
+
+if b >= 1000 and b < 10000
+
+display b 4 reqemli deyil
+
+end if
+
+if c >= 1000 and c < 10000
+
+display c 4 reqemli deyil
+
+calculate a1 = (a * 1) / 100
+
+calculate b1 = (b * 2) / 100
+
+calculate c1 = (c * 3) / 100
+
+calculate e = (c * 7) / 100
+
+calculate d = (a1 - b1 - c1) + e
+
+print d
+
+endprogram
+
+
+
+

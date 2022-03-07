@@ -1,0 +1,46 @@
+program task9
+
+set a = 123456
+
+set b = 123456
+
+set c = 123456
+
+init a1
+
+init b1
+
+init c1
+
+init d
+
+if  a >= 100000 and a < 1000000
+
+display a 6 reqemli eded deyil
+
+END if
+
+if  b >= 100000 and b < 1000000
+
+display b 6 reqemli eded deyil
+
+END if
+
+if  c >= 100000 and c < 1000000
+
+display b 6 reqemli eded deyil
+
+END if
+
+calculate a1 = (a * 10) / 100
+ 
+calculate b1 = (b * 10) / 100
+
+calculate c1 = (c * 10) / 100
+
+calculate d = ((a1 + b1 + c1)*10)/100
+
+print d
+
+
+endprogram
